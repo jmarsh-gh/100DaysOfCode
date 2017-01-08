@@ -63,3 +63,12 @@
 
 **Link to work**
 [Weather App](https://github.com/jmarsh-gh/fcc_weather_api)
+
+### Day 6: Sunday 08 January 2017
+
+**Working On**: Weather APP for the FCC Intermediate Front End Development Projects 
+
+**Progress**  Spent most of my time today wrestling with Github and then glyphicons. Got both working though!
+
+**Link to work**
+[Weather App](https://github.com/jmarsh-gh/fcc_weather_api)
