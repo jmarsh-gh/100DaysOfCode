@@ -36,3 +36,30 @@
 
 **Link to work**
 [Weather App](https://github.com/jmarsh-gh/fcc_weather_api)
+
+### Day 3: Thursday 05 January 2017
+
+**Working On**: Weather APP for the FCC Intermediate Front End Development Projects 
+
+**Progress** The weather app now fetches weather data! Added buttons for Centigrade and Fahrenheit.
+
+**Link to work**
+[Weather App](https://github.com/jmarsh-gh/fcc_weather_api)
+
+### Day 4: Friday 06 January 2017
+
+**Working On**: Weather APP for the FCC Intermediate Front End Development Projects 
+
+**Progress**  Code almost done, just need to convert wind degrees to wind direction, then onto making it pretty!
+
+**Link to work**
+[Weather App](https://github.com/jmarsh-gh/fcc_weather_api)
+
+### Day 5: Saturday 07 January 2017
+
+**Working On**: Weather APP for the FCC Intermediate Front End Development Projects 
+
+**Progress**  Location, temp, weather (text & icon), wind direction/speed and conversion buttons. Styling next (least fave part)
+
+**Link to work**
+[Weather App](https://github.com/jmarsh-gh/fcc_weather_api)
