@@ -72,3 +72,12 @@
 
 **Link to work**
 [Weather App](https://github.com/jmarsh-gh/fcc_weather_api)
+
+### Day 7: Monday 09 January 2017
+
+**Working On**: Weather APP for the FCC Intermediate Front End Development Projects 
+
+**Progress**  Finishing up the weather app. Almost done. Messing around with icons and images. Made a stupid mistake when I moved my script and CSS files into folders. Left open the old files in Sublime and was editing them wondering why nothing was changing. Oh dear.
+
+**Link to work**
+[Weather App](https://github.com/jmarsh-gh/fcc_weather_api)
