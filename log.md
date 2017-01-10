@@ -81,3 +81,12 @@
 
 **Link to work**
 [Weather App](https://github.com/jmarsh-gh/fcc_weather_api)
+
+### Day 8: Tuesday 10 January 2017
+
+**Working On**: Weather APP for the FCC Intermediate Front End Development Projects 
+
+**Progress**  
+
+**Link to work**
+[Weather App](https://github.com/jmarsh-gh/fcc_weather_api)
