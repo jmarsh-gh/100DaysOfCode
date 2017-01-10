@@ -86,7 +86,7 @@
 
 **Working On**: Weather APP for the FCC Intermediate Front End Development Projects 
 
-**Progress**  
+**Progress** Weather App finished for now. WIll go back anduse Geolocation rather than IP later (ip doesn't work on mobile data). May add icons and Umbrella section too.  
 
 **Link to work**
 [Weather App](https://github.com/jmarsh-gh/fcc_weather_api)
