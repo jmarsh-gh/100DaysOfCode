@@ -90,3 +90,12 @@
 
 **Link to work**
 [Weather App](https://github.com/jmarsh-gh/fcc_weather_api)
+
+### Day 9: Wednesday 11 January 2017
+
+**Working On**: Random Quote Machine for the FCC Intermediate Front End Development Projects 
+
+**Progress** Started random quote machine for FCC. I've set up the API and it's fetching quotes. Now I need some events! 
+
+**Link to work**
+[Weather App](https://github.com/jmarsh-gh/random_quote_fcc)
