@@ -99,3 +99,12 @@
 
 **Link to work**
 [Weather App](https://github.com/jmarsh-gh/random_quote_fcc)
+
+### Day 10: Thursday 12 January 2017
+
+**Working On**: Random Quote Machine for the FCC Intermediate Front End Development Projects 
+
+**Progress** 
+
+**Link to work**
+[Weather App](https://github.com/jmarsh-gh/random_quote_fcc)
