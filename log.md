@@ -104,7 +104,7 @@
 
 **Working On**: Random Quote Machine for the FCC Intermediate Front End Development Projects 
 
-**Progress** 
+**Progress** Quote machine now has a tweet btn, but some quotes are > 140 chars. Need to think of something neat to deal with that.
 
 **Link to work**
 [Weather App](https://github.com/jmarsh-gh/random_quote_fcc)
