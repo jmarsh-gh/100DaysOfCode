@@ -113,7 +113,7 @@
 
 **Working On**: Random Quote Machine for the FCC Intermediate Front End Development Projects 
 
-**Progress** 
+**Progress** Got up before work to do Day 11 as I'm going out tonight. Dedication! Quote machine only shows quotes < 140 chars now.
 
 **Link to work**
 [Weather App](https://github.com/jmarsh-gh/random_quote_fcc)
