@@ -98,7 +98,7 @@
 **Progress** Started random quote machine for FCC. I've set up the API and it's fetching quotes. Now I need some events! 
 
 **Link to work**
-[Weather App](https://github.com/jmarsh-gh/random_quote_fcc)
+[ASOIAF Quote Machine](https://github.com/jmarsh-gh/random_quote_fcc)
 
 ### Day 10: Thursday 12 January 2017
 
@@ -107,7 +107,7 @@
 **Progress** Quote machine now has a tweet btn, but some quotes are > 140 chars. Need to think of something neat to deal with that.
 
 **Link to work**
-[Weather App](https://github.com/jmarsh-gh/random_quote_fcc)
+[ASOIAF Quote Machine](https://github.com/jmarsh-gh/random_quote_fcc)
 
 ### Day 11: Friday 13 January 2017
 
@@ -116,7 +116,7 @@
 **Progress** Got up before work to do Day 11 as I'm going out tonight. Dedication! Quote machine only shows quotes < 140 chars now.
 
 **Link to work**
-[Weather App](https://github.com/jmarsh-gh/random_quote_fcc)
+[ASOIAF Quote Machine](https://github.com/jmarsh-gh/random_quote_fcc)
 
 ### Day 12: Saturday 14 January 2017
 
@@ -129,4 +129,4 @@
 **To Do Next** Wikipedia Viewer
 
 **Link to work**
-[Weather App](https://github.com/jmarsh-gh/random_quote_fcc)
+[ASOIAF Quote Machine](https://github.com/jmarsh-gh/random_quote_fcc)
