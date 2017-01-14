@@ -117,3 +117,16 @@
 
 **Link to work**
 [Weather App](https://github.com/jmarsh-gh/random_quote_fcc)
+
+### Day 12: Saturday 14 January 2017
+
+**Working On**: Random Quote Machine for the FCC Intermediate Front End Development Projects 
+
+**Progress**: Finished my ASOIAF random quote machine for @freeCodeCamp : http://codepen.io/jmarshcodepen/full/jyroBd/ … Next up: Wikipedia Viewer!
+
+**Technologies Used**: JS jQuery Bootstrap HTML CSS
+
+**To Do Next** Wikipedia Viewer
+
+**Link to work**
+[Weather App](https://github.com/jmarsh-gh/random_quote_fcc)
