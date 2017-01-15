@@ -139,7 +139,7 @@
 
 **Technologies Used**: JS/jQuery/Bootstrap/HTML/CSS
 
-**To Do Next**: Create a list of top 5 search results.
+**To Do Next**: Create a list of top 5 search results..
 
 **Link to work**
 [Wikipedia Viewer](https://github.com/jmarsh-gh/wikipedia_viewer_fcc)
