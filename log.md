@@ -131,6 +131,8 @@
 **Link to work**
 [ASOIAF Quote Machine](https://github.com/jmarsh-gh/random_quote_fcc)
 
+### Day 13: Sunday 15 January 2017
+
 **Working On**: Wikipedia Viewer for the FCC Intermediate Front End Development Projects 
 
 **Progress**: Today I have been mostly tinkering with the wikipedia API.
