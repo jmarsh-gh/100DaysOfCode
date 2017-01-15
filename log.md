@@ -124,9 +124,20 @@
 
 **Progress**: Finished my ASOIAF random quote machine for @freeCodeCamp : http://codepen.io/jmarshcodepen/full/jyroBd/ … Next up: Wikipedia Viewer!
 
-**Technologies Used**: JS jQuery Bootstrap HTML CSS
+**Technologies Used**: JS/jQuery/Bootstrap/HTML/CSS
 
 **To Do Next** Wikipedia Viewer
 
 **Link to work**
 [ASOIAF Quote Machine](https://github.com/jmarsh-gh/random_quote_fcc)
+
+**Working On**: Wikipedia Viewer for the FCC Intermediate Front End Development Projects 
+
+**Progress**: Today I have been mostly tinkering with the wikipedia API.
+
+**Technologies Used**: JS/jQuery/Bootstrap/HTML/CSS
+
+**To Do Next**: Create a list of top 5 search results.
+
+**Link to work**
+[Wikipedia Viewer](https://github.com/jmarsh-gh/wikipedia_viewer_fcc)
