@@ -143,3 +143,16 @@
 
 **Link to work**
 [Wikipedia Viewer](https://github.com/jmarsh-gh/wikipedia_viewer_fcc)
+
+### Day 14: Monday 16 January 2017
+
+**Working On**: Wikipedia Viewer for the FCC Intermediate Front End Development Projects 
+
+**Progress**: More wikipedia API.
+
+**Technologies Used**: JS/jQuery/Bootstrap/HTML/CSS
+
+**To Do Next**: Create a list of top 5 search results..
+
+**Link to work**
+[Wikipedia Viewer](https://github.com/jmarsh-gh/wikipedia_viewer_fcc)
