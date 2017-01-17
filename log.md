@@ -156,3 +156,16 @@
 
 **Link to work**
 [Wikipedia Viewer](https://github.com/jmarsh-gh/wikipedia_viewer_fcc)
+
+### Day 15: Tuesday 17 January 2017
+
+**Working On**: Wikipedia Viewer for the FCC Intermediate Front End Development Projects 
+
+**Progress**: Wikipedia viewer gets search results & random articles. Next: make search results clicky, then make it all pretty.
+
+**Technologies Used**: JS/jQuery/Bootstrap/HTML/CSS
+
+**To Do Next**: make search results clicky, then make it all pretty.
+
+**Link to work**
+[Wikipedia Viewer](https://github.com/jmarsh-gh/wikipedia_viewer_fcc)
