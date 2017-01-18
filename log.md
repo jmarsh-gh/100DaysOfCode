@@ -174,11 +174,11 @@
 
 **Working On**: Wikipedia Viewer for the FCC Intermediate Front End Development Projects 
 
-**Progress**: 
+**Progress**: Events and styling. Made the list pretty and it only appears when search is clicked.
 
 **Technologies Used**: JS/jQuery/Bootstrap/HTML/CSS
 
-**To Do Next**: 
+**To Do Next**: More styling, link the input field to var, concat API url.
 
 **Link to work**
 [Wikipedia Viewer](https://github.com/jmarsh-gh/wikipedia_viewer_fcc)
