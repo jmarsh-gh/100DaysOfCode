@@ -182,3 +182,16 @@
 
 **Link to work**
 [Wikipedia Viewer](https://github.com/jmarsh-gh/wikipedia_viewer_fcc)
+
+### Day 17: Thursday 19 January 2017
+
+**Working On**: Wikipedia Viewer for the FCC Intermediate Front End Development Projects 
+
+**Progress**: Wrestling with createElement and appendChild trying to sort my Wiki search results out.
+
+**Technologies Used**: JS/jQuery/Bootstrap/HTML/CSS
+
+**To Do Next**: More lists, more styling, link the input field to var, concat API url.
+
+**Link to work**
+[Wikipedia Viewer](https://github.com/jmarsh-gh/wikipedia_viewer_fcc)
