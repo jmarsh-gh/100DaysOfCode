@@ -195,3 +195,16 @@
 
 **Link to work**
 [Wikipedia Viewer](https://github.com/jmarsh-gh/wikipedia_viewer_fcc)
+
+### Day 18: Friday 20 January 2017
+
+**Working On**: Wikipedia Viewer for the FCC Intermediate Front End Development Projects 
+
+**Progress**: MOre work on the lists. I can't work out why classList.add will add classes to hard coded li but not the ones created by javascript.
+
+**Technologies Used**: JS/jQuery/Bootstrap/HTML/CSS
+
+**To Do Next**: Finish everything. Link input field for an easy win (famous last words!)
+
+**Link to work**
+[Wikipedia Viewer](https://github.com/jmarsh-gh/wikipedia_viewer_fcc)
