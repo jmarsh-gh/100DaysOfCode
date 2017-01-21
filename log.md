@@ -208,3 +208,16 @@
 
 **Link to work**
 [Wikipedia Viewer](https://github.com/jmarsh-gh/wikipedia_viewer_fcc)
+
+### Day 19: Saturday 21 January 2017
+
+**Working On**: Wikipedia Viewer for the FCC Intermediate Front End Development Projects 
+
+**Progress**: Added a cheeky regex to slice the summaries of my wiki search results. indexOf(".") was slicing after abbreviations.
+
+**Technologies Used**: JS/jQuery/Bootstrap/HTML/CSS
+
+**To Do Next**: Add to codepen then start Twitch viewer.
+
+**Link to work**
+[Wikipedia Viewer](https://github.com/jmarsh-gh/wikipedia_viewer_fcc)
