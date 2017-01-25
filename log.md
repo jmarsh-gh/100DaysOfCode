@@ -252,11 +252,24 @@
 
 **Working On**: Twitch.tv Viewer
 
-**Progress**: Started Twitch viewer for FCC. Set-up the API and it seems to be getting the correct data! 
+**Progress**: DOM wrangling.
 
 **Technologies Used**: JS/jQuery/Bootstrap/HTML/CSS
 
-**To Do Next**: Create a list of streamers and show whether they are online or offline.
+**To Do Next**: Add more info to online streamers
+
+**Link to work**
+[Twitch Viewer](https://github.com/jmarsh-gh/twitch_viewer_fcc)
+
+### Day 23: Wednesday 25 January 2017
+
+**Working On**: Twitch.tv Viewer
+
+**Progress**: Playing around with CSS and .classList for the FCC Twitch App.
+
+**Technologies Used**: JS/jQuery/Bootstrap/HTML/CSS
+
+**To Do Next**: Add more info to online streamers
 
 **Link to work**
 [Twitch Viewer](https://github.com/jmarsh-gh/twitch_viewer_fcc)
