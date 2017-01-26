@@ -273,3 +273,17 @@
 
 **Link to work**
 [Twitch Viewer](https://github.com/jmarsh-gh/twitch_viewer_fcc)
+
+### Day 24: Thursday 26 January 2017
+
+**Working On**: Twitch.tv Viewer
+
+**Progress**: Twitch.tv App: Added more info to streams that are online (game being played, logo etc).
+
+**Technologies Used**: JS/jQuery/Bootstrap/HTML/CSS
+
+**To Do Next**: sort images. use setAttribute
+
+**Link to work**
+[Twitch Viewer](https://github.com/jmarsh-gh/twitch_viewer_fcc)
+
