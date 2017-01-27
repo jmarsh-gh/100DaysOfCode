@@ -287,3 +287,15 @@
 **Link to work**
 [Twitch Viewer](https://github.com/jmarsh-gh/twitch_viewer_fcc)
 
+### Day 25: Friday 27 January 2017
+
+**Working On**: Twitch.tv Viewer
+
+**Progress**: Twitch.tv App: CSS and tidying up. Last 10% takes 90% of the time.
+
+**Technologies Used**: JS/jQuery/Bootstrap/HTML/CSS
+
+**To Do Next**: sort images. use setAttribute
+
+**Link to work**
+[Twitch Viewer](https://github.com/jmarsh-gh/twitch_viewer_fcc)
