@@ -299,3 +299,29 @@
 
 **Link to work**
 [Twitch Viewer](https://github.com/jmarsh-gh/twitch_viewer_fcc)
+
+### Day 26: Saturday 28 January 2017
+
+**Working On**: Twitch.tv Viewer
+
+**Progress**: Twitch.tv App: CSS and tidying up. Last 10% takes 90% of the time.
+
+**Technologies Used**: JS/jQuery/Bootstrap/HTML/CSS
+
+**To Do Next**: Decided to refactor my code a bit. Using setAttribute instead innerHTML to add stream logos to their respective entries.
+
+**Link to work**
+[Twitch Viewer](https://github.com/jmarsh-gh/twitch_viewer_fcc)
+
+### Day 27: Sunday 29 January 2017
+
+**Working On**: Twitch.tv Viewer
+
+**Progress**: Twitch.tv App: CSS and tidying up. Last 10% takes 90% of the time.
+
+**Technologies Used**: JS/jQuery/Bootstrap/HTML/CSS
+
+**To Do Next**: Thinking of completely rewriting my Javascript for Twitch app. Not happy with hardcoded list + innerHTML.
+
+**Link to work**
+[Twitch Viewer](https://github.com/jmarsh-gh/twitch_viewer_fcc)
