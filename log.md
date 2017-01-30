@@ -325,3 +325,16 @@
 
 **Link to work**
 [Twitch Viewer](https://github.com/jmarsh-gh/twitch_viewer_fcc)
+
+### Day 28: Monday 30 January 2017
+
+**Working On**: Twitch.tv Viewer
+
+**Progress**: Twitch.tv App: CSS and tidying up. Last 10% takes 90% of the time.
+
+**Technologies Used**: JS/jQuery/Bootstrap/HTML/CSS
+
+**To Do Next**: CSS
+
+**Link to work**
+[Twitch Viewer](https://github.com/jmarsh-gh/twitch_viewer_fcc)
