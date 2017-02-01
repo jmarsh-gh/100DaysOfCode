@@ -346,8 +346,21 @@
 **Progress**: Twitch.tv App: CSS and tidying up. Last 10% takes 90% of the time.
 
 **Technologies Used**: JS/jQuery/Bootstrap/HTML/CSS
-
+""
 **To Do Next**: CSS
+
+**Link to work**
+[Twitch Viewer](https://github.com/jmarsh-gh/twitch_viewer_fcc)
+
+### Day 30: Wednesday 01 February 2017
+
+**Working On**: Twitch.tv Viewer
+
+**Progress**: Twitch.tv App: CSS and tidying up. Last 10% takes 90% of the time.
+
+**Technologies Used**: JS/jQuery/Bootstrap/HTML/CSS
+
+**To Do Next**: FCC Intermediate algorithms
 
 **Link to work**
 [Twitch Viewer](https://github.com/jmarsh-gh/twitch_viewer_fcc)
