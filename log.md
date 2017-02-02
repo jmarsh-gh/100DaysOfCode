@@ -343,7 +343,7 @@
 
 **Working On**: Twitch.tv Viewer
 
-**Progress**: Twitch.tv App: CSS and tidying up. Last 10% takes 90% of the time.
+**Progress**: Twitch.tv App: DOM manipulation
 
 **Technologies Used**: JS/jQuery/Bootstrap/HTML/CSS
 ""
@@ -356,7 +356,20 @@
 
 **Working On**: Twitch.tv Viewer
 
-**Progress**: Twitch.tv App: CSS and tidying up. Last 10% takes 90% of the time.
+**Progress**: Twitch.tv App: Finished, just need to move over to codepen.
+
+**Technologies Used**: JS/jQuery/Bootstrap/HTML/CSS
+
+**To Do Next**: FCC Intermediate algorithms
+
+**Link to work**
+[Twitch Viewer](https://github.com/jmarsh-gh/twitch_viewer_fcc)
+
+### Day 31: Thursday 02 February 2017
+
+**Working On**: Twitch.tv Viewer
+
+**Progress**: Twitch.tv App: Moved to codepen
 
 **Technologies Used**: JS/jQuery/Bootstrap/HTML/CSS
 
