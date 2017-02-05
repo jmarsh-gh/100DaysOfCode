@@ -378,7 +378,7 @@
 **Link to work**
 [Twitch Viewer](https://github.com/jmarsh-gh/twitch_viewer_fcc)
 
-### Day 31: Friday 03 February 2017
+### Day 32: Friday 03 February 2017
 
 **Working On**: FCC Intermediate algorithms
 
@@ -389,4 +389,30 @@
 **To Do Next**: FCC Intermediate algorithms
 
 **Link to work**
-[Twitch Viewer](https://github.com/jmarsh-gh/twitch_viewer_fcc)
+[Intermediate Algorithms](https://github.com/jmarsh-gh/sandbox/wiki/FCC-Intermediate)
+
+### Day 33: Saturday 04 February 2017
+
+**Working On**: FCC Intermediate algorithms
+
+**Progress**: Set up project
+
+**Technologies Used**: JS
+
+**To Do Next**: FCC Intermediate algorithms
+
+**Link to work**
+[Intermediate Algorithms](https://github.com/jmarsh-gh/sandbox/wiki/FCC-Intermediate)
+
+### Day 34: Sunday 05 February 2017
+
+**Working On**: FCC Intermediate algorithms
+
+**Progress**: Set up project
+
+**Technologies Used**: JS
+
+**To Do Next**: FCC Intermediate algorithms
+
+**Link to work**
+[Intermediate Algorithms](https://github.com/jmarsh-gh/sandbox/wiki/FCC-Intermediate)
