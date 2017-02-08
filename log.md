@@ -416,3 +416,43 @@
 
 **Link to work**
 [Intermediate Algorithms](https://github.com/jmarsh-gh/sandbox/wiki/FCC-Intermediate)
+
+### Day 35: Monday 06 February 2017
+
+**Working On**: FCC Intermediate algorithms
+
+**Progress**: Algorithms
+
+**Technologies Used**: JS
+
+**To Do Next**: FCC Intermediate algorithms
+
+**Link to work**
+[Intermediate Algorithms](https://github.com/jmarsh-gh/sandbox/wiki/FCC-Intermediate)
+
+### Day 36: Tuesday 07 February 2017
+
+**Working On**: FCC Intermediate algorithms
+
+**Progress**: Algorithms
+
+**Technologies Used**: JS
+
+**To Do Next**: FCC Intermediate algorithms
+
+**Link to work**
+[Intermediate Algorithms](https://github.com/jmarsh-gh/sandbox/wiki/FCC-Intermediate)
+
+### Day 37: Wednesday 08 February 2017
+
+**Working On**: FCC Intermediate algorithms
+
+**Progress**: Algorithms
+
+**Technologies Used**: JS
+
+**To Do Next**: FCC Intermediate algorithms
+
+**Link to work**
+[Intermediate Algorithms](https://github.com/jmarsh-gh/sandbox/wiki/FCC-Intermediate)
+
