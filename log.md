@@ -456,3 +456,17 @@
 **Link to work**
 [Intermediate Algorithms](https://github.com/jmarsh-gh/sandbox/wiki/FCC-Intermediate)
 
+### Day 38: Thursday 09 February 2017
+
+**Working On**: FCC Intermediate algorithms
+
+**Progress**: Algorithms - Roman Numerals.
+
+**Technologies Used**: JS
+
+**To Do Next**: FCC Intermediate algorithms
+
+**Link to work**
+[Intermediate Algorithms](https://github.com/jmarsh-gh/sandbox/wiki/FCC-Intermediate)
+
+
