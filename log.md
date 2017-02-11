@@ -473,7 +473,7 @@
 
 **Working On**: FCC Intermediate algorithms
 
-**Progress**: Algorithms - Roman Numerals.
+**Progress**: Algorithms - Roman Numerals and updating algorithm wiki.
 
 **Technologies Used**: JS
 
@@ -481,5 +481,19 @@
 
 **Link to work**
 [Intermediate Algorithms](https://github.com/jmarsh-gh/sandbox/wiki/FCC-Intermediate)
+
+### Day 40: Saturday 11 February 2017
+
+**Working On**: FCC Intermediate algorithms
+
+**Progress**: Algorithms - Wherefore art thou
+
+**Technologies Used**: JS
+
+**To Do Next**: FCC Intermediate algorithms
+
+**Link to work**
+[Intermediate Algorithms](https://github.com/jmarsh-gh/sandbox/wiki/FCC-Intermediate)
+
 
 
