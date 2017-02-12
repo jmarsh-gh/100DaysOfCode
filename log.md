@@ -495,5 +495,19 @@
 **Link to work**
 [Intermediate Algorithms](https://github.com/jmarsh-gh/sandbox/wiki/FCC-Intermediate)
 
+### Day 41: Sunday 12 February 2017
+
+**Working On**: FCC Intermediate algorithms
+
+**Progress**: Algorithms - Wherefore art thou
+
+**Technologies Used**: JS
+
+**To Do Next**: FCC Intermediate algorithms
+
+**Link to work**
+[Intermediate Algorithms](https://github.com/jmarsh-gh/sandbox/wiki/FCC-Intermediate)
+
+
 
 
