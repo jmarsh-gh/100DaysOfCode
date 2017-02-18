@@ -521,7 +521,7 @@
 **Link to work**
 [Intermediate Algorithms](https://github.com/jmarsh-gh/sandbox/wiki/FCC-Intermediate)
 
-### Day 43: Monday 13 February 2017
+### Day 43: Tuesday 14 February 2017
 
 **Working On**: FCC Intermediate algorithms
 
@@ -534,7 +534,7 @@
 **Link to work**
 [Intermediate Algorithms](https://github.com/jmarsh-gh/sandbox/wiki/FCC-Intermediate)
 
-### Day 44: Monday 13 February 2017
+### Day 44: Wednesday 15 February 2017
 
 **Working On**: FCC Intermediate algorithms
 
@@ -547,7 +547,7 @@
 **Link to work**
 [Intermediate Algorithms](https://github.com/jmarsh-gh/sandbox/wiki/FCC-Intermediate)
 
-## Day 44: Monday 13 February 2017
+## Day 45: Thursday 16 February 2017
 
 **Working On**: FCC Intermediate algorithms
 
@@ -560,7 +560,7 @@
 **Link to work**
 [Intermediate Algorithms](https://github.com/jmarsh-gh/sandbox/wiki/FCC-Intermediate)
 
-## Day 44: Monday 13 February 2017
+## Day 46: Friday 17 February 2017
 
 **Working On**: FCC Intermediate algorithms
 
@@ -573,6 +573,18 @@
 **Link to work**
 [Intermediate Algorithms](https://github.com/jmarsh-gh/sandbox/wiki/FCC-Intermediate)
 
+## Day 47: Saturday 18 February 2017
+
+**Working On**: FCC Intermediate algorithms
+
+**Progress**: Algorithms - lost some work as FCC editor didn't save. Set-up codeanywhere project so can push to git.
+
+**Technologies Used**: JS
+
+**To Do Next**: FCC Intermediate algorithms
+
+**Link to work**
+[Intermediate Algorithms](https://github.com/jmarsh-gh/sandbox/wiki/FCC-Intermediate)
 
 
 
