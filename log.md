@@ -612,6 +612,21 @@
 **Link to work**
 [Intermediate Algorithms](https://github.com/jmarsh-gh/sandbox/wiki/FCC-Intermediate)
 
+## Day 50: Tuesday 21 February 2017
+
+**Working On**: FCC Intermediate algorithms
+
+**Progress**: Algorithms - lost some work as FCC editor didn't save. Set-up codeanywhere project so can push to git.
+
+**Technologies Used**: JS
+
+**To Do Next**: FCC Intermediate algorithms
+
+**Link to work**
+[Intermediate Algorithms](https://github.com/jmarsh-gh/sandbox/wiki/FCC-Intermediate)
+
+
+
 
 
 
